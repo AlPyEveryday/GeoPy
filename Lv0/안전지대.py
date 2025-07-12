@@ -1,5 +1,3 @@
-
-    
 def solution(board):
     ans=0
     n = len(board)
